@@ -14,9 +14,9 @@ As much as I remember I excute the code following this order :
     python scrapping_links.py
     python scrapping_radios.py
 
-<a href="https://ibb.co/1Rdhwd6"><img src="https://i.ibb.co/ss6kM6H/scraper1.png" alt="scraper1" border="0"></a>
-Database I got in output.
-<a href="https://ibb.co/8dhRpTR"><img src="https://i.ibb.co/7R9T58T/scraper2.png" alt="scraper2" border="0"></a>
+<a href="https://ibb.co/1Rdhwd6"><img src="https://i.ibb.co/ss6kM6H/scraper1.png" alt="scraper1" border="0"></a> <br />
+Database I got in output. <br />
+<a href="https://ibb.co/8dhRpTR"><img src="https://i.ibb.co/7R9T58T/scraper2.png" alt="scraper2" border="0"></a> <br />
 
 Tested before under windows and python3.
 Feel free to use the code and enjoy!
